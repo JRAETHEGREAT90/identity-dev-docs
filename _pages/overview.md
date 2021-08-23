@@ -1,5 +1,5 @@
 ---
-title: Integration overview
+title: Integration Overview
 lead: >
   Login.gov is an identity provider that integrates with your application using industry protocols.
 ---
